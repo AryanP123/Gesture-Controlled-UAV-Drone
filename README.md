@@ -1,6 +1,11 @@
 # Gesture-Controlled-UAV-Drone
  Controlling a drone using hand gestures and an IMU sensor.
 
+# Demo
+Click to view demo:
+
+[![ESP32-S3 / IMU - Based Gesture Controlled UAV Drone](https://img.youtube.com/vi/xzMobrAIKGE/0.jpg)](https://www.youtube.com/watch?v=xzMobrAIKGE)
+
 # What is the project about? 
 
 The objective of this project is to control the UAV via different hand gestures. I wanted to be able to control the drone to move in 7 different directions, which are left, right, up, down, backwards, forwards, and landing as well as 1 trick which is doing a flip. 
@@ -60,8 +65,4 @@ final_fft.py may be used to generate figures of both raw data and FFT-transforme
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/d2e57512-9cff-4d53-9c61-ca1f98e158b8" />
 
 With a dataset of 495 files, I achieved an SVM test accuracy of 97.980%.
-
-# Demo
-https://www.youtube.com/watch?v=xzMobrAIKGE
-[![ESP32-S3 / IMU - Based Gesture Controlled UAV Drone](https://img.youtube.com/vi/xzMobrAIKGE/0.jpg)](https://www.youtube.com/watch?v=xzMobrAIKGE)
 
