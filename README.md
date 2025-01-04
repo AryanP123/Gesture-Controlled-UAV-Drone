@@ -63,3 +63,5 @@ With a dataset of 495 files, I achieved an SVM test accuracy of 97.980%.
 
 # Demo
 https://www.youtube.com/watch?v=xzMobrAIKGE
+[![ESP32-S3 / IMU - Based Gesture Controlled UAV Drone](https://img.youtube.com/vi/xzMobrAIKGE/0.jpg)](https://www.youtube.com/watch?v=xzMobrAIKGE)
+
